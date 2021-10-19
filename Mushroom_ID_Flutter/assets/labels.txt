@@ -1,0 +1,9 @@
+0 Agaricus
+1 Amanita
+2 Boletus
+3 Cortinarius
+4 Entoloma
+5 Hygrocybe
+6 Lactarius
+7 Russula
+8 Suillus
