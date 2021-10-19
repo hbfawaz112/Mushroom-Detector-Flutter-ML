@@ -5,7 +5,7 @@
 
 <hr>
 
-## ML Model
+## Machine Learning Model
 <b>Using Google Teachable Machine and dataset from Kaggle. <br> (https://www.kaggle.com/maysee/mushrooms-classification-common-genuss-images).</b>
 <br><br>
 <b>Using it for make the tensorflow lite file to use it in flutter later.
